@@ -1,9 +1,4 @@
 
-
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
     <div>
         <p>Except work Respect and protect the privacy of all users who use the Service. In order to provide you with more accurate and personalized services, Except work will use and disclose your personal information in accordance with this Privacy Policy. However, Except work will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Except work will not disclose or provide such information to third parties without your prior permission. Except work will update this Privacy Policy from time to time. By agreeing to the Except workService Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Except workService Use Agreement.
         
@@ -43,22 +38,3 @@
         <p>a) Except work The account has security protection. Please keep your username and password information safe. Except work will ensure that your information is not lost, misused and altered by security measures such as encrypting user passwords. Despite the aforementioned security measures, please also note that there are no “perfect security measures” on the information network. </p>
        <p> b) When using Except work network service for online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information has been compromised, especially if the Except work username and password are compromised, please contact Except work customer service immediately so that Except work take action.</p>
     </div>
-</body>
-
-</html>
-<script>
-    // 自适应Rem Js代码
-    (function (doc, win) {
-        var docEl = doc.documentElement,
-            resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
-            recalc = function () {
-                var clientWidth = docEl.clientWidth;
-                if (!clientWidth) return;
-                docEl.style.fontSize = 16 * (clientWidth / 375) + 'px';
-
-            };
-        if (!doc.addEventListener) return;
-        win.addEventListener(resizeEvt, recalc, false);
-        doc.addEventListener('DOMContentLoaded', recalc, false);
-    })(document, window);
-</script>
