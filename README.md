@@ -3,37 +3,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        h4 {
-            text-align: center;
-            margin-bottom: .625rem;
-        }
-
-        div {
-            padding: .625rem;
-        }
-
-        p {
-            font-family: PingFangSC-Regular;
-            font-size: 1rem;
-            color: #1E1E1E;
-            letter-spacing: 0.29px;
-            margin: .625rem 0;
-        }
-    </style>
-    <title>Privacy Policy
-    </title>
-</head>
-
 <body>
     <div>
         <p>Except work Respect and protect the privacy of all users who use the Service. In order to provide you with more accurate and personalized services, Except work will use and disclose your personal information in accordance with this Privacy Policy. However, Except work will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Except work will not disclose or provide such information to third parties without your prior permission. Except work will update this Privacy Policy from time to time. By agreeing to the Except workService Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Except workService Use Agreement.
